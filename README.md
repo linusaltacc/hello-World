@@ -11,7 +11,7 @@
 ```bash
 $ javac Hello.java
 ```
-###That will compile the java program and new file called Hello.class will be created.
+### That will compile the java program and a new file called Hello.class will be created.
 
 ## To Run the Hello.java program
 
